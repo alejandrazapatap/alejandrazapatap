@@ -22,7 +22,8 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="Python" alt="HTML" width="40" heigth="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Python" alt="HTML" width="40" heigth="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Python" alt="HTML" width="40" heigth="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="Python" alt="HTML" width="40" heigth="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Python" alt="HTML" width="40" heigth="40"/>
+       <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="Python" alt="HTML" width="40" heigth="40"/>
      </div>
 </div>
 
