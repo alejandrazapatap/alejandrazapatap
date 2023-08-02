@@ -8,9 +8,9 @@
 
 ### 👨‍💻 About Me:
 
-- 🔭 I’m currently working on Syncronik
+- 🔭 I’m currently in a python bootcamp with Ruta N Medellin and Softserve
      
-- 🌱 I’m currently learning Python - Django
+- 🌱 I’m currently learning Python - Data Science
      
 - 📫 How to reach me: https://www.linkedin.com/in/alejandrazapatap/
 
@@ -18,11 +18,11 @@
      <h3>⛏Languages and Tools🛠</h3>
      <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" heigth="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="Python" alt="HTML" width="40" heigth="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="Python" alt="HTML" width="40" heigth="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="Python" alt="HTML" width="40" heigth="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="Python" alt="HTML" width="40" heigth="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="Python" alt="HTML" width="40" heigth="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Python" alt="HTML" width="40" heigth="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Python" alt="HTML" width="40" heigth="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Python" alt="HTML" width="40" heigth="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="Python" alt="HTML" width="40" heigth="40"/>
      </div>
 </div>
 
