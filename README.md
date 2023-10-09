@@ -18,12 +18,13 @@
      <h3>⛏Languages and Tools🛠</h3>
      <div>
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" heigth="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="Python" alt="HTML" width="40" heigth="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="Python" alt="HTML" width="40" heigth="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Python" alt="HTML" width="40" heigth="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Python" alt="HTML" width="40" heigth="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Python" alt="HTML" width="40" heigth="40"/>
-       <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="Python" alt="HTML" width="40" heigth="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="HTML" width="40" heigth="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQLServer" alt="HTML" width="40" heigth="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="HTML" width="40" heigth="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="HTML" width="40" heigth="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="HTML" width="40" heigth="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="Linux" alt="HTML" width="40" heigth="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="HTML" width="40" heigth="40"/>
      </div>
 </div>
 
