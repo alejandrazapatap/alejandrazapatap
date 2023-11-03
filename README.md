@@ -14,6 +14,25 @@
    
 - 📫 How to reach me 👇
     * [![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandrazapatap) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alejandrazapatap)
+---
+  # 🌱 Implementation:
+ 
+ - 👯 I have had the opportunity to collaborate and put into  <br> practice my Backend skills in multidisciplinary teams formed <br> by the <a href="https://www.nocountry.tech/" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/my-books-app-bbf9b.appspot.com/o/nocountry-sf.png?alt=media&token=b25df34c-5525-4c33-a792-d4b5a4b2a32a" alt="nocountry/" height="25" width="auto" /></a> team, on projects such as:
+  <br>
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Recicla_ando🍀</td> 
+    <td>
+     <p>Demo <br> <a href="https://fronted-nocountry.onrender.com/">https://fronted-nocountry.onrender.com/</a></p>
+      <p>Repo <br><a href="https://github.com/No-Country/c14-43-m-python/tree/main">https://github.com/No-Country/c14-43-m-python/tree/main</a></p>
+    </td>
+  </tr>
+</table>
+  <br>
 
       
 
